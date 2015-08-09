@@ -1,0 +1,3 @@
+Y is the wine quality, X1-X11 are variables that have potential effect the wine taste.
+
+Our task is to find a best simplest model.
